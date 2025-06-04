@@ -6,6 +6,7 @@
 [English](#english-description) | [中文说明](#中文说明)
 
 
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/b430aff1-2fa3-4ca5-b1d4-aa434f376290" />
 
 
 ---
@@ -167,6 +168,7 @@ Thank you for your understanding and valuable time! I look forward to the opport
 ---
 
 
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/37dde49e-f038-4410-b542-62ad98644a9b" />
 
 
 ---
